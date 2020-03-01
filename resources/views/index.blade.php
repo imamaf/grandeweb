@@ -50,7 +50,6 @@
         </div>
     </div>
 
-    <section>
         <div class="container" style="max-width:900px;">
             <div class="img-banner">
                 <div class="row">
@@ -120,9 +119,8 @@
                 </div>   -->
             </div>
         </div>
-    </section>
+ 
 
-    <section>
         <div class="container" style="max-width: 900px;">
             <div class="row">
                 <div class="col-md-6">
@@ -145,7 +143,7 @@
                 </div>
             </div>
         </div>
-    </section>
+
 
     <!-- <div class="instagram-photo">
         <div class="insta-item set-bg" data-setbg="img/img-banner-1.png" style="background-image: url('img/img-banner-1.png');">

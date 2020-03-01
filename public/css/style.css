@@ -58,6 +58,7 @@ section{
     padding: 10px;
     width: 200px;
     position: relative;
+    margin-top: 100px;
 }
 .title-banner .btn-banner:before{
         content: '';
@@ -77,10 +78,10 @@ section{
 }
 .service-banner{
     width: fit-content;
-    bottom: 15px;
+    bottom: -70px;
     position: absolute;
     z-index: 1;
-    margin-left: -90px;
+    margin-left: 10px;
 }
 .service-banner h3 {
     color: white;
@@ -116,7 +117,8 @@ ol {
 }
 
 .img-banner{
-    margin-top: -115px;
+    margin-top: -120px;
+    margin-bottom: 30px;
 }
 .set-bg {
     background-repeat: no-repeat;
@@ -125,10 +127,10 @@ ol {
 }
 .feature-item {
 	/* text-align: center;*/
-	height: 280px;
+	height: 230px;
 	margin-left: -15px;
     margin-right: -15px;
-	padding: 30px 15px 15px;
+	padding: 25px 15px 15px;
 	position: relative;
 }
 
@@ -155,7 +157,7 @@ ol {
 	font-weight: bold;
 	text-transform: uppercase;
     margin-bottom: 14px;
-    font-size: 80px;
+    font-size: 50px;
     opacity: 0.8;
 }
 
@@ -169,7 +171,7 @@ ol {
 }
 
 .feature-item .title {
-    margin-top: 35px;
+    margin-top: 30px;
 }
 .feature-item .title h5 {
     color: #ffffff;
@@ -258,7 +260,7 @@ ol {
     background-color: #C0EAC2;
     height: 500px;
     padding: 50px;
-    margin-left: -20px;
+    margin-left: -15px;
     margin-right: -20px;
 }
 .about-us h3{
@@ -279,8 +281,8 @@ ol {
     position: relative;
 }
 .image-about {
-    margin-left: -20px;
-    margin-right: -20px;
+    margin-left: -10px;
+    margin-right: -15px;
     margin-top: 60px;
 }
 .image-about img{
