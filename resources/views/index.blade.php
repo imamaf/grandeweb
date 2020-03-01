@@ -123,7 +123,7 @@
     </section>
 
     <section>
-        <div class="container">
+        <div class="container" style="max-width: 900px;">
             <div class="row">
                 <div class="col-md-6">
                     <div class="about-us">
