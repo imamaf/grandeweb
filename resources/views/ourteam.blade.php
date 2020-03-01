@@ -27,7 +27,7 @@
                         <a class="nav-link" href="#">About Us</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="{{ url('ourteam') }}">Our Team</a>
+                        <a class="nav-link" href="#">Our Team</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Contact</a>
@@ -118,31 +118,6 @@
                         </div>
                     </div>
                 </div>   -->
-            </div>
-        </div>
-    </section>
-
-    <section>
-        <div class="container" style="max-width: 900px;">
-            <div class="row">
-                <div class="col-md-6">
-                    <div class="about-us">
-                        <h3>About Us</h3>
-                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor 
-                            invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam 
-                            et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est 
-                            Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed 
-                            diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. 
-                            At vero eos et accusam et justo duo dolores et ea rebum. Stet clita
-                        </p>
-                        <a href="#" class="btn btn-about">Let's work together!</a>
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="image-about">
-                        <img src="img/img-aboutus.png" alt="#">
-                    </div>
-                </div>
             </div>
         </div>
     </section>
