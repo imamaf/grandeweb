@@ -51,7 +51,7 @@
     </div>
 
     <section>
-        <div class="container" style="max-width:850px;">
+        <div class="container" style="max-width:900px;">
             <div class="img-banner">
                 <div class="row">
                     <div class="col-md-3">
