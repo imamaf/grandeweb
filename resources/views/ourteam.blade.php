@@ -37,88 +37,42 @@
         </div>
     </nav>
 
-    <div class="jumbotron">
+    <div class="jumbotron-our">
         <div class="container">
-            <div class="title-banner wow fadeInRightBig animated" data-wow-duration="3s">
+            <div class="title-our wow fadeInRightBig animated" data-wow-duration="3s">
                 <h1>We Make Your Dream</h1>
-                <p>Website Come True</p>
-                <a href="#" class="btn btn-banner">Let's work together!</a>
-            </div>
-            <div class="service-banner">
-                <h3>Our Service</h3>
             </div>
         </div>
     </div>
 
     <section>
         <div class="container" style="max-width:900px;">
-            <div class="img-banner">
-                <div class="row">
-                    <div class="col-md-3">
-                        <div class="feature-item set-bg" data-setbg="img/img-banner-1.png" style="background-image: url('img/img-banner-1.png');">
-                            <h3>01</h3>
-                            <div class="title wow fadeInDown" data-wow-duration="1s">
-                                <h5>Company Profile</h5>
-                                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
-                                    sed diam nonumy eirmod tempor invidunt ut labore et dolore 
-                                    magna aliquyam erat, sed diam voluptua. At vero
-                                </p>
-                            </div>
+           <div class="ourteam">
+               <div class="meetour">
+                   <h1>Meet our team</h1>
+                   <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
+                       sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+                       At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+                       no sea takimata sanctus est Lorem ipsum dolor sit amet.
+                       Lorem ipsum dolor sit amet, consetetur sadipscing elitr.
+                    </p>
+               </div>
+
+               <div class="img-our">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <img src="img/foto1.png" alt="#">
                         </div>
-                    </div>
-                    <div class="col-md-3">
-                        <div class="feature-item set-bg" data-setbg="img/img-banner-2.png" style="background-image: url('img/img-banner-2.png');">
-                            <h3>02</h3>
-                            <div class="title">
-                                <h5>Online Shop</h5>
-                                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
-                                    sed diam nonumy eirmod tempor invidunt ut labore et dolore 
-                                    magna aliquyam erat, sed diam voluptua. At vero
-                                </p>
-                            </div>
+                        <div class="col-md-4">
+                            <img src="img/foto1.png" alt="#">
                         </div>
-                    </div>
-                    <div class="col-md-3">
-                        <div class="feature-item set-bg" data-setbg="img/img-banner-3.png" style="background-image: url('img/img-banner-3.png');">
-                            <h3>03</h3>
-                            <div class="title">
-                                <h5>Personal Website</h5>
-                                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
-                                    sed diam nonumy eirmod tempor invidunt ut labore et dolore 
-                                    magna aliquyam erat, sed diam voluptua. At vero
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-3">
-                        <div class="feature-item set-bg" data-setbg="img/img-banner-3.png" style="background-image: url('img/img-banner-3.png');">
-                            <!-- <h3>Personal Website</h3> -->
+                        <div class="col-md-4">
+                            <img src="img/foto1.png" alt="#">
                         </div>
                     </div>
                 </div>
-                <!-- <div class="row">
-                    <div class="col-sm-3">
-                        <div style="width: 100%">
-                            <img src="img/img-banner-1.png"" alt="#" style="width: 100%">
-                        </div>
-                    </div>
-                    <div class="col-sm-3">
-                        <div style="width: 100%">
-                            <img src="img/img-banner-1.png"" alt="#" style="width: 100%">
-                        </div>
-                    </div>
-                    <div class="col-sm-3">
-                        <div style="width: 100%">
-                            <img src="img/img-banner-1.png"" alt="#" style="width: 100%">
-                        </div>
-                    </div>
-                    <div class="col-sm-3">
-                        <div style="width: 100%">
-                            <img src="img/img-banner-1.png"" alt="#" style="width: 100%">
-                        </div>
-                    </div>
-                </div>   -->
-            </div>
+
+           </div>
         </div>
     </section>
 

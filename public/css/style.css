@@ -37,6 +37,15 @@ section{
     position: absolute;
     bottom: 0;
 } */
+.jumbotron-our {
+    background-image: url('../img/banner-2.png');
+    background-size: cover;
+    background-position: center;
+    /* background-repeat: no-repeat; */
+    height: 400px;
+    margin-top: -200px;
+    border-radius: 0px;
+}
 .title-banner {
     text-align: center;
     margin-top: 130px;
@@ -75,6 +84,21 @@ section{
     width: 200px;
     
 }
+.title-our {
+    text-align: center;
+    margin-top: 130px;
+    z-index: 1;
+}
+.title-our h1 {
+    color: #03AC0E;
+    font-family: 'poppin';
+    font-size: 30px;
+    margin-left: 0;
+    margin-right: 0;
+    display: inline-block;
+    margin-top: 150px;
+}
+
 .service-banner{
     width: fit-content;
     bottom: 15px;
@@ -286,7 +310,25 @@ ol {
 .image-about img{
     width: 100%;
 }
-
+.ourteam {
+    width: auto;
+    height: 1000px;
+    background-color: #C0EAC2;
+    margin-top: -150px;
+}
+.meetour {
+    padding: 50px;
+}
+.meetour p {
+    font-size: 12px;
+    line-height: 20px;
+}
+.img-our {
+    padding: 50px;
+}
+.img-our img {
+    max-width: 100%;
+}
 @media (min-width: 768px) {
     .title-banner h1 {
         color: #03AC0E;
