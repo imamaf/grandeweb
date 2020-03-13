@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>index</title>
     <link href="https://fonts.googleapis.com/css?family=Poppins:400,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="css/style.css">
@@ -50,51 +51,51 @@
         </div>
     </div>
 
-        <div class="container" style="max-width:900px;">
-            <div class="img-banner">
-                <div class="row">
-                    <div class="col-md-3">
-                        <div class="feature-item set-bg" data-setbg="img/img-banner-1.png" style="background-image: url('img/img-banner-1.png');">
-                            <h3>01</h3>
-                            <div class="title wow fadeInDown" data-wow-duration="1s">
-                                <h5>Company Profile</h5>
-                                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
-                                    sed diam nonumy eirmod tempor invidunt ut labore et dolore 
-                                    magna aliquyam erat, sed diam voluptua. At vero
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-3">
-                        <div class="feature-item set-bg" data-setbg="img/img-banner-2.png" style="background-image: url('img/img-banner-2.png');">
-                            <h3>02</h3>
-                            <div class="title">
-                                <h5>Online Shop</h5>
-                                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
-                                    sed diam nonumy eirmod tempor invidunt ut labore et dolore 
-                                    magna aliquyam erat, sed diam voluptua. At vero
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-3">
-                        <div class="feature-item set-bg" data-setbg="img/img-banner-3.png" style="background-image: url('img/img-banner-3.png');">
-                            <h3>03</h3>
-                            <div class="title">
-                                <h5>Personal Website</h5>
-                                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
-                                    sed diam nonumy eirmod tempor invidunt ut labore et dolore 
-                                    magna aliquyam erat, sed diam voluptua. At vero
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-3">
-                        <div class="feature-item set-bg" data-setbg="img/img-banner-3.png" style="background-image: url('img/img-banner-3.png');">
-                            <!-- <h3>Personal Website</h3> -->
+    <div class="container" style="max-width:900px;">
+        <div class="img-banner">
+            <div class="row">
+                <div class="col-md-3">
+                    <div class="feature-item set-bg" data-setbg="img/img-banner-1.png" style="background-image: url('img/img-banner-1.png');">
+                        <h3>01</h3>
+                        <div class="title wow fadeInDown" data-wow-duration="1s">
+                            <h5>Company Profile</h5>
+                            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
+                                sed diam nonumy eirmod tempor invidunt ut labore et dolore 
+                                magna aliquyam erat, sed diam voluptua. At vero
+                            </p>
                         </div>
                     </div>
                 </div>
+                <div class="col-md-3">
+                    <div class="feature-item set-bg" data-setbg="img/img-banner-2.png" style="background-image: url('img/img-banner-2.png');">
+                        <h3>02</h3>
+                        <div class="title">
+                            <h5>Online Shop</h5>
+                            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
+                                sed diam nonumy eirmod tempor invidunt ut labore et dolore 
+                                magna aliquyam erat, sed diam voluptua. At vero
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="feature-item set-bg" data-setbg="img/img-banner-3.png" style="background-image: url('img/img-banner-3.png');">
+                        <h3>03</h3>
+                        <div class="title">
+                            <h5>Personal Website</h5>
+                            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
+                                sed diam nonumy eirmod tempor invidunt ut labore et dolore 
+                                magna aliquyam erat, sed diam voluptua. At vero
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="feature-item set-bg" data-setbg="img/img-banner-3.png" style="background-image: url('img/img-banner-3.png');">
+                            <!-- <h3>Personal Website</h3> -->
+                    </div>
+                </div>
+            </div>
                 <!-- <div class="row">
                     <div class="col-sm-3">
                         <div style="width: 100%">
@@ -117,33 +118,206 @@
                         </div>
                     </div>
                 </div>   -->
+        </div>
+    </div>
+
+
+    <div class="container" style="max-width: 900px;">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="about-us">
+                    <h3>About Us</h3>
+                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor 
+                        invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam 
+                        et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est 
+                        Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed 
+                        diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. 
+                        At vero eos et accusam et justo duo dolores et ea rebum. Stet clita
+                    </p>
+                    <a href="#" class="btn btn-about">Let's work together!</a>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="image-about">
+                    <img src="img/img-aboutus.png" alt="#">
+                </div>
             </div>
         </div>
- 
+    </div>
 
+    <div class="bg-featured">
         <div class="container" style="max-width: 900px;">
             <div class="row">
-                <div class="col-md-6">
-                    <div class="about-us">
-                        <h3>About Us</h3>
-                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor 
-                            invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam 
-                            et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est 
-                            Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed 
-                            diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. 
-                            At vero eos et accusam et justo duo dolores et ea rebum. Stet clita
-                        </p>
-                        <a href="#" class="btn btn-about">Let's work together!</a>
+                <div class="col-md-12">
+                    <h2 class="text-center" style="margin-top:30px; color:#303030; margin-bottom: 30px;">Featured Project</h2>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-4 col-sm-4 col-xs-12">
+                    <div class="thumb-wrapper">
+                        <div class="img-box">
+                            <img src="img/img-featured.png" class="img-responsive img-fluid" alt="">
+                        </div>
+                        <div class="thumb-content">
+                            <span>PT. JOY BUSINESS INTERNATIONAL</span>
+                            <p>Indonesia</p>
+                            <a href="#">Visit Site <i class="fa fa-angle-right"></i></a>
+                        </div>						
                     </div>
                 </div>
-                <div class="col-md-6">
-                    <div class="image-about">
-                        <img src="img/img-aboutus.png" alt="#">
+
+                <div class="col-md-4 col-sm-4 col-xs-12">
+                    <div class="thumb-wrapper">
+                        <div class="img-box">
+                            <img src="img/img-featured.png" class="img-responsive img-fluid" alt="">
+                        </div>
+                        <div class="thumb-content">
+                            <span>PT. JOY BUSINESS INTERNATIONAL</span>
+                            <p>Indonesia</p>
+                            <a href="#">Visit Site <i class="fa fa-angle-right"></i></a>
+                        </div>						
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-4 col-xs-12">
+                    <div class="thumb-wrapper">
+                        <div class="img-box">
+                            <img src="img/img-featured.png" class="img-responsive img-fluid" alt="">
+                        </div>
+                        <div class="thumb-content">
+                            <span>PT. JOY BUSINESS INTERNATIONAL</span>
+                            <p>Indonesia</p>
+                            <a href="#">Visit Site <i class="fa fa-angle-right"></i></a>
+                        </div>						
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-4 col-sm-4 col-xs-12">
+                    <div class="thumb-wrapper">
+                        <div class="img-box">
+                            <img src="img/img-featured.png" class="img-responsive img-fluid" alt="">
+                        </div>
+                        <div class="thumb-content">
+                            <span>PT. JOY BUSINESS INTERNATIONAL</span>
+                            <p>Indonesia</p>
+                            <a href="#">Visit Site <i class="fa fa-angle-right"></i></a>
+                        </div>						
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-4 col-xs-12">
+                    <div class="thumb-wrapper">
+                        <div class="img-box">
+                            <img src="img/img-featured.png" class="img-responsive img-fluid" alt="">
+                        </div>
+                        <div class="thumb-content">
+                            <span>PT. JOY BUSINESS INTERNATIONAL</span>
+                            <p>Indonesia</p>
+                            <a href="#">Visit Site <i class="fa fa-angle-right"></i></a>
+                        </div>						
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-4 col-xs-12">
+                    <div class="thumb-wrapper">
+                        <div class="img-box">
+                            <img src="img/img-featured.png" class="img-responsive img-fluid" alt="">
+                        </div>
+                        <div class="thumb-content">
+                            <span>PT. JOY BUSINESS INTERNATIONAL</span>
+                            <p>Indonesia</p>
+                            <a href="#">Visit Site <i class="fa fa-angle-right"></i></a>
+                        </div>						
                     </div>
                 </div>
             </div>
         </div>
+    </div>
 
+    <div class="bg-testimonials">
+        <div class="row">
+            <div class="col-md-8 col-center m-auto">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="img-template">
+                            <h2 class="text-center" style="margin-top:30px; color:#303030; margin-bottom: 30px;">Testimonials</h2>
+                        </div>
+                    </div>
+                </div>
+                <div id="testimoni" class="testimoni slide" data-ride="carousel">
+                    <!-- Carousel indicators -->
+                    <ol class="testimoni-indicators">
+                        <li data-target="#testimoni" data-slide-to="0" class="active"></li>
+                        <li data-target="#testimoni" data-slide-to="1"></li>
+                        <li data-target="#testimoni" data-slide-to="2"></li>
+                    </ol>   
+                    <!-- Wrapper for carousel items -->
+                    <div class="carousel-inner">
+                        <div class="item carousel-item active">
+                            <div class="img-box">
+                                <img src="https://www.tutorialrepublic.com/examples/images/clients/3.jpg" alt="">
+                            </div>
+                            <p class="testimonial">" Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero "</p>
+                            <i class="fas fa-quote-right"></i>
+                            <p class="name">Rudi Lazuardi</p>
+                            <p class="position">Komisaris Joybiz</p>
+                        </div>
+                        <div class="item carousel-item">
+                            <div class="img-box">
+                                <img src="https://www.tutorialrepublic.com/examples/images/clients/2.jpg" alt="">
+                            </div>
+                            <p class="testimonial">" Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero "</p>
+                            <i class="fas fa-quote-right"></i>
+                            <p class="name">Muhammad Ibnu</p>
+                            <p class="position">Komisaris Joybiz</p>
+                        </div>
+                        <div class="item carousel-item">
+                            <div class="img-box">
+                                <img src="https://www.tutorialrepublic.com/examples/images/clients/1.jpg" alt="">
+                            </div>
+                            <p class="testimonial">" Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero "</p>
+                            <i class="fas fa-quote-right"></i>
+                            <p class="name">Gina Rizka</p>
+                            <p class="position">Komisaris Joybiz</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="bg-footer">
+        <div class="container" style="max-width: 900px; margin-top: 20px;">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="footer-img">
+                        <img src="img/logo-putih.png" alt="">
+                    </div>
+                    <div class="footer-title">
+                        <p>Click one of our contacts below to say hello.</p>
+                    </div>
+                    <div class="footer-medsos">
+                        <p><i class="fab fa-instagram"></i> grande.web</p>
+                        <p><i class="far fa-envelope"></i> grande.web@gmail.com</p>
+                        <p><i class="fab fa-whatsapp"></i> +6281291898046</p>
+                    </div>
+                </div>
+                <div class="col-md-6 center-text">
+                    <div class="footer-center">
+                        <p class="footer-links">
+                            <a href="#">Project</a>
+                            <a href="#">About Us</a>
+                            <a href="#">Our Team</a>
+                            <a href="#">Contact</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <!-- <div class="instagram-photo">
         <div class="insta-item set-bg" data-setbg="img/img-banner-1.png" style="background-image: url('img/img-banner-1.png');">
@@ -192,4 +366,5 @@
 <script type="text/javascript" src="js/owl.carousel.min.js"></script>
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://use.fontawesome.com/5c5f5e49d6.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>

@@ -1,9 +1,13 @@
 html,body{
     font-family: 'Poppins', sans-serif;
 }
+.row {
+    margin-right: 0px;
+    margin-left: 0px;
+}
 
-section{
-    height: 300px;
+section {
+    min-height: 400px;
 }
 .navbar{
     background-color: #C0EAC2;
@@ -286,7 +290,7 @@ ol {
 
 .about-us {
     background-color: #C0EAC2;
-    height: 500px;
+    height: 600px;
     padding: 50px;
     margin-left: -15px;
     margin-right: -20px;
@@ -335,6 +339,180 @@ ol {
 .img-our img {
     max-width: 100%;
 }
+
+/*========== Featured Project ========== */
+.bg-featured {
+    background-image: url(../img/bg-featured-project.png);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 50px;
+    height: 320vh;
+    width: 100%;
+}
+.thumb-wrapper {
+	margin: 5px;
+	text-align: left;
+    background: #fff;
+    box-shadow: 0px 2px 2px rgba(0,0,0,0.1);   
+}
+.thumb-content {
+	padding: 15px;
+	font-size: 13px;
+}
+.thumb-content span {
+    font-size: 14px;
+    font-family: roboto;
+    font-weight: bold;
+}
+
+
+/*========== Testimonials ========== */
+.bg-testimonials {
+    background-image: url(../img/bg-testimonials.png);
+    /* background-position: center;
+    background-attachment: fixed; */
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    height: 62vh;
+    width: 100%;
+}
+.testimoni {
+    position: relative;
+}
+.testimoni .item {
+    font-size: 14px;
+    text-align: center;
+    overflow: hidden;
+}
+.testimoni .testimoni-indicators {
+    bottom: -5px;
+}
+.testimoni-indicators {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 15;
+    display: -ms-flexbox;
+    display: -webkit-box;
+    display: flex;
+    -ms-flex-pack: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    padding-left: 0;
+    margin-right: 15%;
+    margin-left: 15%;
+    list-style: none;
+}
+.testimoni-indicators li, .testimoni-indicators li.active {
+    width: 8px;
+    height: 8px;
+    margin: 1px 3px;
+    border-radius: 50%;
+}
+.testimoni-indicators li {
+    background: #999;
+    border-color: transparent;
+    -webkit-box-shadow: inset 0 2px 1px rgba(0,0,0,0.2);
+    box-shadow: inset 0 2px 1px rgba(0,0,0,0.2);
+}
+.testimoni-indicators li.active {
+    background: #555;
+    -webkit-box-shadow: inset 0 2px 1px rgba(0,0,0,0.2);
+    box-shadow: inset 0 2px 1px rgba(0,0,0,0.2);
+}
+.testimoni .item .img-box {
+	width: 100px;
+	height: 100px;
+	margin: 0 auto;
+	padding: 5px;
+	border: 1px solid #ddd;
+	border-radius: 50%;
+}
+.testimoni .img-box img {
+	width: 100%;
+	height: 100%;
+	display: block;
+	border-radius: 50%;
+}
+.testimoni .testimonial {
+	padding: 20px 20px 0px 20px;
+}
+.testimoni .overview {	
+	font-style: normal;
+}
+.testimoni .overview b {
+	text-transform: uppercase;
+	color: #D1AE4E;
+}
+.testimoni i {
+    font-size: 30px;
+    color: #6F796F;
+    margin-bottom: 10px;
+}
+.testimoni .name {
+    font-weight: 800;
+}
+.testimoni .position {
+    color: #6F796F;
+    margin-top: -18px;
+}
+.testimoni .carousel-control {
+	width: 40px;
+    height: 40px;
+    margin-top: -20px;
+    top: 50%;
+	background: none;
+}
+
+
+
+
+/*========== Footer ========== */
+.bg-footer {
+    background-image: url(../img/bg-footer.png);
+    background-position: center;
+    width: 100%;
+    /* text-align: center; */
+    /* padding: 30px 0px; */
+    overflow: hidden;
+}
+.footer-img img {
+    margin-bottom: 20px;
+}
+.footer-title p {
+    color:#fff;
+    font-size:12px;
+}
+.footer-medsos p {
+    color:#fff;
+    font-size:12px;
+    margin-bottom: 7px;
+}
+.footer-medsos p i {
+    font-size: 16px;
+    margin-right: 5px;
+}
+.footer-links {
+    margin: 0 0 10px;
+    padding: 0;
+}
+.footer-links a {
+    display: inline-block;
+    margin: 0 10px 0 10px;
+    color: #fff;
+    font-size: 14px;
+}
+.center-text {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-top: 20px;
+}
+
+
 @media (min-width: 768px) {
     .title-banner h1 {
         color: #03AC0E;
@@ -344,5 +522,53 @@ ol {
         color: #03AC0E;
         font-size: 30px;
     }
+    .testimoni .testimonial {
+        padding: 20px 170px 0px 170px;
+    }
+    .bg-featured {
+        background-image: url(../img/bg-featured-project.png);
+        background-position: center;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-top: 50px;
+        height: 130vh;
+        width: 100%;
+    }
+    .bg-testimonials {
+        background-image: url(../img/bg-testimonials.png);
+        /* background-position: center;
+        background-attachment: fixed; */
+        background-repeat: no-repeat;
+        /* background-size: cover; */
+        height: 70vh;
+        width: 100%;
+    }
+    .center-text {
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+    }
+    .bg-footer {
+        background-image: url(../img/bg-footer.png);
+        background-position: center;
+        width: 100%;
+        /* text-align: center; */
+        /* padding: 30px 0px; */
+        overflow: hidden;
+    }
 
+}
+
+
+
+
+@media (min-width: 576px) { 
+    .about-us {
+        background-color: #C0EAC2;
+        height: 500px;
+        padding: 50px;
+        margin-left: -15px;
+        margin-right: -20px;
+    }
 }
