@@ -61,13 +61,43 @@
                <div class="img-our">
                     <div class="row">
                         <div class="col-md-4">
-                            <img src="img/foto1.png" alt="#">
+                            <div class="thumb-ourteam">
+                                <img src="img/foto1.png" alt="#">
+                                <div class="thumb-ourcontent">
+                                <h5>Rudi Imam Lazuardi</h5>
+                                <span>Owner Joybiz</span>
+                                <p> is simply dummy text of the printing and typesetting industry.
+                                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+                                    when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                <a href="#">Visit Site <i class="fa fa-angle-right"></i></a>
+                                </div>
+                            </div>
                         </div>
                         <div class="col-md-4">
-                            <img src="img/foto1.png" alt="#">
+                            <div class="thumb-ourteam">
+                                <img src="img/foto1.png" alt="#">
+                                <div class="thumb-ourcontent">
+                                <h5>Rudi Imam Lazuardi</h5>
+                                <span>Owner Joybiz</span>
+                                <p> is simply dummy text of the printing and typesetting industry.
+                                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+                                    when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                <a href="#">Visit Site <i class="fa fa-angle-right"></i></a>
+                                </div>
+                            </div>
                         </div>
                         <div class="col-md-4">
-                            <img src="img/foto1.png" alt="#">
+                            <div class="thumb-ourteam">
+                                <img src="img/foto1.png" alt="#">
+                                <div class="thumb-ourcontent">
+                                <h5>Rudi Imam Lazuardi</h5>
+                                <span>Owner Joybiz</span>
+                                <p> is simply dummy text of the printing and typesetting industry.
+                                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+                                    when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                <a href="#">Visit Site <i class="fa fa-angle-right"></i></a>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -75,6 +105,36 @@
            </div>
         </div>
     </section>
+
+    <div class="bg-footer">
+        <div class="container" style="max-width: 900px; margin-top: 20px;">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="footer-img">
+                        <img src="img/logo-putih.png" alt="">
+                    </div>
+                    <div class="footer-title">
+                        <p>Click one of our contacts below to say hello.</p>
+                    </div>
+                    <div class="footer-medsos">
+                        <p><i class="fab fa-instagram"></i> grande.web</p>
+                        <p><i class="far fa-envelope"></i> grande.web@gmail.com</p>
+                        <p><i class="fab fa-whatsapp"></i> +6281291898046</p>
+                    </div>
+                </div>
+                <div class="col-md-6 center-text">
+                    <div class="footer-center">
+                        <p class="footer-links">
+                            <a href="#">Project</a>
+                            <a href="#">About Us</a>
+                            <a href="#">Our Team</a>
+                            <a href="#">Contact</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <!-- <div class="instagram-photo">
         <div class="insta-item set-bg" data-setbg="img/img-banner-1.png" style="background-image: url('img/img-banner-1.png');">
