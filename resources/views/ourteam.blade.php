@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>ourteam</title>
     <link href="https://fonts.googleapis.com/css?family=Poppins:400,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="css/style.css">
@@ -69,7 +70,11 @@
                                 <p> is simply dummy text of the printing and typesetting industry.
                                     Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
                                     when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                                <a href="#">Visit Site <i class="fa fa-angle-right"></i></a>
+                                    <div class="medsos-our">
+                                        <i href="#" class="fab fa-instagram" style="padding: 3px;" ></i>
+                                        <i href="#" class="far fa-envelope" style="padding: 3px;" ></i>
+                                        <i href="#" class="fab fa-whatsapp" style="padding: 3px;" ></i>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -82,7 +87,11 @@
                                 <p> is simply dummy text of the printing and typesetting industry.
                                     Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
                                     when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                                <a href="#">Visit Site <i class="fa fa-angle-right"></i></a>
+                                    <div class="medsos-our">
+                                        <i href="#"class="fab fa-instagram" style="padding: 3px;" ></i>
+                                        <i href="#" class="far fa-envelope" style="padding: 3px;" ></i>
+                                        <i href="#" class="fab fa-whatsapp" style="padding: 3px;" ></i>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -95,7 +104,11 @@
                                 <p> is simply dummy text of the printing and typesetting industry.
                                     Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
                                     when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                                <a href="#">Visit Site <i class="fa fa-angle-right"></i></a>
+                                    <div class="medsos-our">
+                                        <i href="#"class="fab fa-instagram" style="padding: 3px;" ></i>
+                                        <i href="#" class="far fa-envelope" style="padding: 3px;" ></i>
+                                        <i href="#" class="fab fa-whatsapp" style="padding: 3px;" ></i>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -184,4 +197,5 @@
 <script type="text/javascript" src="js/owl.carousel.min.js"></script>
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://use.fontawesome.com/5c5f5e49d6.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
