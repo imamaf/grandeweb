@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>ourteam</title>
+    <title>About</title>
     <link href="https://fonts.googleapis.com/css?family=Poppins:400,900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
@@ -40,82 +40,59 @@
 
         <div class="jumbotron-our">
             <div class="container">
-                <div class="title-our wow fadeInRightBig animated" data-wow-duration="3s">
-                    <h1>Our Team</h1>
+                <div class="title-about wow fadeInRightBig animated" data-wow-duration="3s">
+                    <h1>About us</h1>
                 </div>
             </div>
         </div>
 
     <section>
         <div class="container" style="max-width:900px;">
-           <div class="ourteam">
-               <div class="meetour">
-                   <h1>Meet our team</h1>
-                   <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
-                       sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-                       At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
-                       no sea takimata sanctus est Lorem ipsum dolor sit amet.
-                       Lorem ipsum dolor sit amet, consetetur sadipscing elitr.
-                    </p>
-               </div>
-
-               <div class="img-our">
-                    <div class="row">
-                        <div class="col-md-4">
-                            <div class="thumb-ourteam">
-                                <img src="img/Ibnu.jpg" alt="#">
-                                <div class="thumb-ourcontent">
-                                <h5>M Ibnu Kurniawan</h5>
-                                <span>Owner Joybiz</span>
-                                <p> is simply dummy text of the printing and typesetting industry.
-                                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                                    when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                                    <div class="medsos-our">
-                                        <i href="#" class="fab fa-instagram" style="padding: 3px;" ></i>
-                                        <i href="#" class="far fa-envelope" style="padding: 3px;" ></i>
-                                        <i href="#" class="fab fa-whatsapp" style="padding: 3px;" ></i>
+            <div class="row">
+                <div class="about-page">
+                    <div class="col-md-6">
+                        <div class="about-body">
+                            <h1>About us</h1>
+                            <p>Lorem ipsum dolor sit amet, consetetur sa dipscing elitr,
+                                sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+                                At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+                                no sea takimata sanctus est Lorem ipsum dolor sit amet.
+                                Lorem ipsum dolor sit amet, consetetur sadipscing elitr.
+                                </p>
+                        </div>
+                        <div class="image-visit set-img" data-setimg="img/img-visit.png" style="background-image: url('img/img-visit.png');">
+                            <!-- <img src="img/img-visit.png" alt="#"> -->
+                            <div class="row">
+                                <div class="col-md-6" style="padding: 15px;">
+                                    <div class="feature-visit">
+                                        <div class="row">
+                                            <div class="client col-md-6">
+                                                <h1>15</h1>
+                                                <p>clients</p>
+                                            </div>
+                                            <div class="website col-md-6">
+                                                <h1>30</h1>
+                                                <p>website created</p>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="thumb-ourteam">
-                                <img src="img/foto1.png" alt="#">
-                                <div class="thumb-ourcontent">
-                                <h5>Rudi Imam Lazuardi</h5>
-                                <span>Owner Joybiz</span>
-                                <p> is simply dummy text of the printing and typesetting industry.
-                                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                                    when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                                    <div class="medsos-our">
-                                        <i href="#"class="fab fa-instagram" style="padding: 3px;" ></i>
-                                        <i href="#" class="far fa-envelope" style="padding: 3px;" ></i>
-                                        <i href="#" class="fab fa-whatsapp" style="padding: 3px;" ></i>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="thumb-ourteam">
-                                <img src="img/foto1.png" alt="#">
-                                <div class="thumb-ourcontent">
-                                <h5>Rudi Imam Lazuardi</h5>
-                                <span>Owner Joybiz</span>
-                                <p> is simply dummy text of the printing and typesetting industry.
-                                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                                    when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                                    <div class="medsos-our">
-                                        <i href="#"class="fab fa-instagram" style="padding: 3px;" ></i>
-                                        <i href="#" class="far fa-envelope" style="padding: 3px;" ></i>
-                                        <i href="#" class="fab fa-whatsapp" style="padding: 3px;" ></i>
+                                <div class="col-md-6">
+                                    <div class="feature-work">
+                                        <p>Lorem ipsum dolor sit amet, consetetur sa dipscing elitr,
+                                           sed diam nonumy eirmod tempor invidunt ut labore et dolore
+                                           magna aliquyam erat, sed diam voluptua.</p>
+                                        <div class="button-4" style="margin-top: -30px; margin-left: 125px;">
+                                            <div class="eff-4"></div>
+                                            <a href="#">Let's work together!</a>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-
-           </div>
+            </div>
         </div>
     </section>
 

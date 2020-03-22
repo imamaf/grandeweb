@@ -25,7 +25,7 @@
                         <a class="nav-link" href="#">Project</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">About Us</a>
+                        <a class="nav-link" href="{{ url('about') }}">About Us</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="{{ url('ourteam') }}">Our Team</a>
@@ -41,7 +41,7 @@
     <div class="jumbotron">
         <div class="container">
             <div class="title-banner wow fadeInRightBig animated" data-wow-duration="3s">
-                <h1>We Make Your Dream</h1>
+                <h1 style="margin-bottom: 1px;">We Make Your Dream</h1>
                 <p>Website Come True</p>
                 <a href="#" class="btn btn-banner">Let's work together!</a>
             </div>
